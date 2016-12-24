@@ -6,10 +6,11 @@
   </head>
   <body>
   
-  <div>
+  <div style="text-align: right;">
     <a href="index.html">Home</a>  
-    <a href="moby_dick.html">Moby Dick</a>
+    <a href="moby_dick.html" style="margin: 0 0 0 10px;">Moby Dick</a>
   </div>
+    
     <p>
       William Shakespeare's <em>Sonnets</em> consists of 154 poems, each fourteen
       lines long (three
